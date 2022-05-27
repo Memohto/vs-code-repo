@@ -25,7 +25,7 @@ const App = () => {
                     Home
                   </Nav.Link>
                   <Nav.Link as={Link} to={"/contact"}>
-                    Contact Us
+                    About Us
                   </Nav.Link>
                   <Nav.Link as={Link} to={"/hotel"}>
                     Hotel
